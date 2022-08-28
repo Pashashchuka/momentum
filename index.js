@@ -1,0 +1,7 @@
+import * as slider from './modules/slider.js'
+import * as constants from './modules/constants.js'
+import * as quotes from './modules/quotes.js'
+import * as date from './modules/date.js'
+import * as greetings from './modules/greetings.js'
+import * as wheater from './modules/weather.js'
+import * as audio from './modules/audio.js'
